@@ -1,0 +1,2 @@
+My name is Oleksandr Tikhonov. I'm a software engineer with over 10 years of experience building web and mobile applications. I'm originally from Ukraine, but I moved to Tbilisi, Georgia, in 2022.
+I specialize in React and TypeScript and also work with Node.js and React Native. I've built multimedia editors, digital wallets, and AI-powered features. I'm interested in AI agents and enjoy exploring new ways to use them in software development. Outside of work, I enjoy going to the gym, hiking, and practicing English.
